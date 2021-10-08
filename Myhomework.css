@@ -1,0 +1,13 @@
+#container{
+	background-color: green;
+}
+#div-2{
+	width: auto;
+	height: auto;
+	display: flex;
+}
+
+h1{
+	font-weight:bold ;
+	text-decoration: underline;
+}
